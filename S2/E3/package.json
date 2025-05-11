@@ -1,0 +1,26 @@
+{
+  "name": "bugfreelove-backend",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A dating cum networking app for developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Ashish Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
