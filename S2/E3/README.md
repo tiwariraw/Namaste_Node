@@ -14,7 +14,7 @@
 - install required packages mentioned above
 - create a server (const app = express())
 - listen on a port (say on 3000)
-- write request handlers for '/', and '/about'
+- write route handlers for '/', and '/about'
 
 # Research and read more:
 
